@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+getting started on consistently using git to manage the codebase for my master's thesis and some side personal projects...   
+previous works are uploaded archives
 <!--
 **austinasing/austinasing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
